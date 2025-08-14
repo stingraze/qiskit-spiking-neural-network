@@ -9,6 +9,7 @@ from qiskit.circuit.library import RYGate
 from qiskit.primitives import StatevectorSampler
 
 # Initialize Pygame
+#(C)Tsubasa Kato - Inspire Search Corporation - Created using Perplexity Pro.
 pygame.init()
 
 # Constants
