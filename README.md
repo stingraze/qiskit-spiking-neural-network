@@ -5,3 +5,7 @@ Experimental code of using Qiskit with Spiking Neural Network
 Created with help of Perplexity Pro 
 
 Code updated 8/15/2025. Tested to run on Macbook Air with M2. OS: macOS 15.x and Python 3 & uv
+
+Qiskit and Spiking Neural Network controlling a car (simulation) video: (YouTube)
+
+[![Video Title](https://img.youtube.com/vi/5PBqzi7GB_A/0.jpg)](https://www.youtube.com/watch?v=5PBqzi7GB_A)
